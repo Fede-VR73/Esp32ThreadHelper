@@ -6,7 +6,7 @@
   "repository":
   {
     "type": "git",
-    "url": "https://github.com/hugo3132/Esp32ThreadHelper",
+    "url": "https://github.com/Fede-VR73/Esp32ThreadHelper",
     "branch": "master"
   },
   "frameworks": "arduino",
