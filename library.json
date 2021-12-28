@@ -1,0 +1,14 @@
+{
+  "name": "Esp32ThreadHelper",
+  "version": "1.0.0",
+  "keywords": "esp32, RTOS, threads, system",
+  "description": "Esp32 Thread Helper library",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/hugo3132/Esp32ThreadHelper",
+    "branch": "master"
+  },
+  "frameworks": "arduino",
+  "platforms": "espressif32"
+}
